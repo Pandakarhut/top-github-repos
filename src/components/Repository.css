@@ -1,0 +1,21 @@
+div.repository {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 800px;
+    border-radius: 10px;
+    color: darkgreen;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+a.repoLink {
+    color: darkgreen;
+}
+
+a.repoLink:hover {
+    color: green;
+}
