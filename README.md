@@ -1,9 +1,9 @@
 # GitHub Top Projects!
 This project fetches the most starred GitHub repositories using the GitHub API. It was created using React.js and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Most starred GitHub repositories](/docs/screenshot.png "You can fetch all repositories or just Futurice ones")
+[Check out the working demo!](https://pandakarhut.github.io/top-github-repos/)
 
-See the working demo on GitHub pages!
+![Most starred GitHub repositories](/docs/screenshot.png "You can fetch all repositories or just Futurice ones")
 
 ## Available Scripts
 
