@@ -1,7 +1,11 @@
-# GitHub Top Projects!
-This project fetches the most starred GitHub repositories using the GitHub API. It was created using React.js and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GitHub Top Repositories!
+This project fetches the most starred GitHub repositories using the GitHub API. It was created using ReactJS and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Check out the working demo!](https://pandakarhut.github.io/top-github-repos/)
+The app has two buttons to search either all GitHub repositories, or only Futurice repositories, and rank them by the amount of stars they have from users. Each entry in the list provides a link to visit that repository.
+
+The GitHub API has rate limiting in case of too many requests. In those cases, an error message is displayed and you may resume again after a while.
+
+## [Check out the working demo!](https://pandakarhut.github.io/top-github-repos/)
 
 ![Most starred GitHub repositories](/docs/screenshot.png "You can fetch all repositories or just Futurice ones")
 
