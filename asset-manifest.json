@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/top-github-repos/static/css/main.fdf78668.css",
+    "main.js": "/top-github-repos/static/js/main.bd4de005.js",
+    "index.html": "/top-github-repos/index.html",
+    "main.fdf78668.css.map": "/top-github-repos/static/css/main.fdf78668.css.map",
+    "main.bd4de005.js.map": "/top-github-repos/static/js/main.bd4de005.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf78668.css",
+    "static/js/main.bd4de005.js"
+  ]
+}
